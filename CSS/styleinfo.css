@@ -1,0 +1,9 @@
+  div {
+      margin: 10px;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    background-color:rgba(170, 170, 170, 0.253)
+  }
